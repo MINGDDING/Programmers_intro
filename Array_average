@@ -1,0 +1,13 @@
+//중앙값 구하기
+
+import java.util.Arrays;
+
+class Solution {
+    public int solution(int[] array) {
+        Arrays.sort(array); //배열을 순서대로 정렬
+        int n= array.length/2;
+        int answer = array[n];
+        
+        return answer;
+    }
+}
