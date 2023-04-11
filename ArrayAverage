@@ -9,4 +9,4 @@ class Solution {
         }
         return answer/numbers.length;
     }
-}
+}https://github.com/MINGDDING/Programmers_intro/blob/main/JAVA_PROJECT/ArrayAverage
